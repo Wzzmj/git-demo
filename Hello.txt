@@ -13,4 +13,6 @@ hello zmj hello daisy
 hello zmj hello daisy
 hello zmj hello daisy
 hello zmj hello daisy
-hello zmj master branch master branch 
+hello zmj master branch master branch
+hello zmj hot-fix branch hot-fix branch  
+
